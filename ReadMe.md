@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Engineer with experience in building websites and web applications. <br>Currently learning to master Java which is my favorite language. <br>Specialized in JavaScript and TypeScript programming. <br>Also code in Python <br>Love to teach coding to newbies. 
+I am a Full Stack Engineer with experience in building websites and web applications. <br>Currently learning to master Java which is my favorite language. <br>Specialized in JavaScript and TypeScript programming. <br>I teach newbies how to code. <br>Also code in Python
 
 
 ## 🌐 Socials:

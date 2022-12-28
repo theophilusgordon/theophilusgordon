@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Full Stack Engineer with experience in building websites and web applications. <br>Currently learning to master Java which is my favorite language. <br>Specialized in JavaScript and TypeScript programming. <br>I teach newbies how to code. <br>Also code in Python
+As a full stack developer with expertise in Java, JavaScript, Typescript, and Python, I am highly skilled in developing and maintaining web applications. My strong background in both front-end and back-end development allows me to effectively bridge the gap between the visual elements of a website and the underlying technical infrastructure.
 
 
 ## 🌐 Socials:

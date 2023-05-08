@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a full stack developer with expertise in Java, JavaScript, Typescript, Python, and Dart, I am highly skilled in developing and maintaining web and mobile  applications. My strong background in both front-end and back-end development allows me to effectively bridge the gap between the visual elements of a website and the underlying technical infrastructure.
+As a full stack developer with expertise in Java, JavaScript, Typescript, Dart, and Python, I am highly skilled in developing and maintaining web and mobile  applications. My strong background in both front-end and back-end development allows me to effectively bridge the gap between the visual elements of a website and the underlying technical infrastructure.
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a full stack developer with expertise in Java, JavaScript, Typescript, Dart, and Python, I am highly skilled in developing and maintaining web and mobile  applications. My strong background in both front-end and back-end development allows me to effectively bridge the gap between the visual elements of a website and mobile app and the underlying technical infrastructure.
+As a full stack developer with expertise in Java, JavaScript, Typescript, Dart, and Python, I am highly skilled in developing and maintaining web and mobile applications. My strong background in both front-end and back-end development allows me to effectively bridge the gap between the visual elements of a website and mobile app and the underlying technical infrastructure.
 
 
 ## 🌐 Socials:
@@ -13,18 +13,8 @@ As a full stack developer with expertise in Java, JavaScript, Typescript, Dart, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=theophilusgordon&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theophilusgordon&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=theophilusgordon&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=_philgordon)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=theophilusgordon&icon=0&color=0)](https://visitcount.itsvg.in)

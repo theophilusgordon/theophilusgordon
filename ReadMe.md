@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hello!<br>❤ I am passionate and driven Full-stack Developer <br>🕹 with a diverse skill set spanning Backend and Frontend development, as well as DevOps. <br>🏒It's witnessing the joy of those I have helped and helping with my abilities
+👋Hello!<br>❤ I am passionate and driven Full-stack Developer <br>🕹 with a diverse skill set spanning Backend and Frontend development. <br>🏒It's witnessing the joy of those I have helped and helping with my abilities
 👨‍💻that provide me the most fulfillment and sustainment to press on
 
 

@@ -1,6 +1,7 @@
 # 💫 About Me:
-👋Hello!<br>❤ I am passionate and driven Full-stack Developer <br>🕹 with a diverse skill set spanning Backend and Frontend development. <br>🏒It's witnessing the joy of those I have helped and helping with my abilities
-👨‍💻that provide me the most fulfillment and sustainment to press on
+👋Hello!<br>❤ 
+I'm a passionate Full Stack Developer with a proven track record of building and maintaining scalable web applications used by millions of international customers across 80+ countries. <br>
+I thrive in agile, cross-functional teams, leveraging my expertise in backend, frontend, and cloud technologies (AWS) to deliver robust architectures.
 
 
 ## 🌐 Socials:

@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋Hello!<br>❤ 
-I'm a passionate Full Stack Developer with a proven track record of building and maintaining scalable web applications used by millions of international customers across 80+ countries. <br>
-I thrive in agile, cross-functional teams, leveraging my expertise in backend, frontend, and cloud technologies (AWS) to deliver robust architectures.
+A passionate Full-stack Software Engineer with a proven track record of building and maintaining scalable web applications used by millions of international customers across 80+ countries. <br>
+Thrives in agile, cross-functional teams, leveraging expertise in backend, frontend, and cloud technologies (AWS) to deliver robust architectures.
 
 
 ## 🌐 Socials:

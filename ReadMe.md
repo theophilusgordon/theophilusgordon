@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Java Full Stack Developer with over 3 years of experience building robust and scalable applications using technologies like Spring Boot, Angular, React.js, and Python. <br>Enthusiastic about AI, microservices, and creative minimalistic design in software solutions.
+Passionate Software Engineer with over 3 years of experience building robust and scalable applications using technologies like Spring Boot, Angular, React.js, and Python. <br>Enthusiastic about AI, microservices, and creative minimalistic design in software solutions.
 
 
 ## 🌐 Socials:

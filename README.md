@@ -26,9 +26,9 @@
 
 ## 🚀 About Me
 
-> "Hello, my name is Theophilus Kofi Gordon, and I’m a full-stack software engineer and AI specialist with over four years of experience designing and deploying scalable web applications used by millions of users across more than 80 countries.  
-> Throughout my career, I’ve architected systems that leverage GraphQL, REST APIs, WebSockets, gRPC, Kafka, and cloud-native infrastructure to power real-time, intelligent applications. I’ve also mentored over 50 junior developers, led high-impact engineering teams, and earned recognition as a LinkedIn Top Software Engineering Practices Voice. But what truly drives me is Artificial Intelligence. I’m obsessed with finding smarter ways to work, including automation.  
-> My technical foundation is backed by certifications in GraphQL, Python, and Full-Stack Engineering, and strengthened by a business mindset shaped by my Commerce degree.  
+> I’m a full-stack software engineer and AI specialist with over four years of experience designing and deploying scalable web applications used by millions of users across more than 80 countries.  
+> Throughout my career, I’ve architected systems that leverage GraphQL, REST APIs, WebSockets, gRPC, Kafka, and cloud-native infrastructure to power real-time, intelligent applications. I’ve also mentored over 50 junior developers and led high-impact engineering teams. But what truly drives me is Artificial Intelligence. I’m obsessed with finding smarter ways to work, including automation.  
+> My technical foundation is backed by certifications in Full-Stack Engineering, GraphQL, REST APIs with Java and Spring, Python, and AI Career Essencials, and strengthened by a business mindset shaped by my Commerce degree.  
 > My top three skills—full-stack development, AI engineering, and cloud-native architecture—enable me to bridge the gap between cutting-edge technology and business value. What sets me apart is not just my ability to write clean, scalable code, but my proven leadership, strategic thinking, and commitment to driving measurable impact.  
 > From simplifying complex development workflows to reducing time-to-market and boosting system reliability, I focus on delivering high-performance solutions that solve real-world problems for organizations at scale.  
 > I'm eager to contribute to forward-thinking tech initiatives that demand scalable, intelligent solutions, because I don’t just build software, I engineer results."

@@ -81,13 +81,13 @@
 
 ## 📈 GitHub Metrics
 
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theophilus-kofi-gordon&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theophilus-kofi-gordon&theme=radical&hide_border=true" width="48%" />
+</p>
+
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=theophilusgordon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=theophilusgordon&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theophilusgordon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theophilus-gordon&theme=tokyonight" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=theophilus-gordon&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theophilus-gordon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theophilus-kofi-gordon&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---

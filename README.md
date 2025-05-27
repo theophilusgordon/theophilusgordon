@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/ee1c0dd2-1614-4af0-a6e2-f771e2e481a0)
+ ![banner](https://github.com/user-attachments/assets/29ced657-6ab6-4652-932a-c2f5234df42d)
+
 </p>
 
 <h1 align="center">👋 Hi, I'm Theophilus Kofi Gordon</h1>
@@ -81,6 +82,9 @@
 ## 📈 GitHub Metrics
 
 <p align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=theophilusgordon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=theophilusgordon&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theophilusgordon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theophilus-gordon&theme=tokyonight" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=theophilus-gordon&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theophilus-gordon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />

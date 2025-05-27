@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
- ![banner](https://github.com/user-attachments/assets/29ced657-6ab6-4652-932a-c2f5234df42d)
-
+  <img src="https://github.com/user-attachments/assets/29ced657-6ab6-4652-932a-c2f5234df42d" alt="Theophilus Kofi Gordon Banner" style="width:100%;">
 </p>
 
 <h1 align="center">👋 Hi, I'm Theophilus Kofi Gordon</h1>

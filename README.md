@@ -89,7 +89,7 @@
 
 ## 🌍 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/theophilus-gordon/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/theophilusgordon/)
 - 📧 theophilusgordon1@gmail.com
 - 📄 [Resume](https://docs.google.com/document/d/1Sc1zodMtNmwXErfzVxDqBqdMKUi0hl6uia1QWyiaxtI/edit?usp=sharing)
 

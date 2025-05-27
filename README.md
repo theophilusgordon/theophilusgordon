@@ -47,6 +47,7 @@
 ### 🛠 Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 
 ### 💻 Frontend
@@ -69,7 +70,6 @@
 ### 🧠 AI & ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=flat&logo=huggingface)
-![Transformers](https://img.shields.io/badge/Transformers-%23232F3E.svg?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=flat)
 
 ### 📊 Databases
@@ -84,6 +84,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theophilusgordon&theme=tokyonight" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=theophilusgordon&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theophilusgordon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 Contribution Streaks
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=theokgordon&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Theophilus Kofi Gordon GitHub Streak"/>
 </p>
 
 ---

@@ -26,12 +26,11 @@
 
 ## 🚀 About Me
 
-> I’m a full-stack software engineer and AI specialist with over four years of experience designing and deploying scalable web applications used by millions of users across more than 80 countries.  
-> Throughout my career, I’ve architected systems that leverage GraphQL, REST APIs, WebSockets, gRPC, Kafka, and cloud-native infrastructure to power real-time, intelligent applications. I’ve also mentored over 50 junior developers and led high-impact engineering teams. But what truly drives me is Artificial Intelligence. I’m obsessed with finding smarter ways to work, including automation.  
-> My technical foundation is backed by certifications in Full-Stack Engineering, GraphQL, REST APIs with Java and Spring, Python, and AI Career Essencials, and strengthened by a business mindset shaped by my Commerce degree.  
-> My top three skills—full-stack development, AI engineering, and cloud-native architecture—enable me to bridge the gap between cutting-edge technology and business value. What sets me apart is not just my ability to write clean, scalable code, but my proven leadership, strategic thinking, and commitment to driving measurable impact.  
-> From simplifying complex development workflows to reducing time-to-market and boosting system reliability, I focus on delivering high-performance solutions that solve real-world problems for organizations at scale.  
-> I'm eager to contribute to forward-thinking tech initiatives that demand scalable, intelligent solutions, because I don’t just build software, I engineer results."
+>I'm a Software Engineer who loves building things that matter. Over the years, I’ve developed and scaled web applications serving millions of users across 80+ countries. I don’t just write code, I solve real-world problems with a mix of technical skill, leadership, and innovation.
+>
+>I’ve mentored 50+ junior developers, led high-impact teams, and earned recognition as a LinkedIn Top Software Engineering Practices Voice. But what really drives me is Artificial Intelligence. I’m obsessed with finding smarter ways to work. Whether that's automating processes, exploring the latest AI research, or pushing the limits of what's possible.
+>
+>I’m a lifelong learner with a growing collection of certifications, always leveling up to stay ahead. My mission is simple: use cutting-edge technologies, like AI and microservices, to make businesses faster, smarter, and more scalable.
 
 ---
 

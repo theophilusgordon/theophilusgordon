@@ -65,10 +65,11 @@
 ![Kafka](https://img.shields.io/badge/Kafka-%23000000.svg?style=flat&logo=apachekafka)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws)
 
-### 🧠 AI & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow)
+### 🧠 AI
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=flat&logo=huggingface)
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-%23007ACC.svg?style=flat)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23666ADD.svg?style=flat)
 
 ### 📊 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql)

@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi, I'm Theophilus Kofi Gordon</h1>
 
 <p align="center">
-  <b>Full-Stack Software Engineer | AI Engineer | Cloud-Native Architect</b><br>
+  <b>Full-Stack Software Engineer | AI Engineer | Cloud Engineer</b><br>
   Designing scalable systems, solving real-world problems, and building AI-driven solutions for impact.
 </p>
 

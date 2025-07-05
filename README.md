@@ -6,8 +6,8 @@
 <h1 align="center">👋 Hi, I'm Theophilus Kofi Gordon</h1>
 
 <p align="center">
-  <b>Full-Stack Software Engineer | AI Engineer | Cloud Engineer</b><br>
-  Designing scalable systems, solving real-world problems, and building AI-driven solutions for impact.
+  <b>Software Engineer (Full-Stack, AI & Cloud) </b><br>
+  Delivering Scalable and AI-Powered Software Solutions Across Europe and Global Markets
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 >
 >I’ve mentored 50+ junior developers, led high-impact teams, and earned recognition as a LinkedIn Top Software Engineering Practices Voice. But what really drives me is Artificial Intelligence. I’m obsessed with finding smarter ways to work. Whether that's automating processes, exploring the latest AI research, or pushing the limits of what's possible.
 >
->I’m a lifelong learner with a growing collection of certifications, always leveling up to stay ahead. My mission is simple: use cutting-edge technologies, like AI and microservices, to make businesses faster, smarter, and more scalable.
+>I’m a lifelong learner with a growing collection of certifications, always leveling up to stay ahead. My mission is simple: use cutting-edge technologies, like AI and cloud-native architecture, to make businesses faster, smarter, and more scalable.
 
 ---
 
@@ -44,7 +44,6 @@
 
 ### 🛠 Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 
@@ -74,7 +73,6 @@
 ### 📊 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql)
 
 ---
 
@@ -104,5 +102,5 @@
 ---
 
 <p align="center">
-  <i>"I don’t just build software, I engineer results."</i>
+  <i>If you’re looking to build something that makes an impact or just want to geek out about AI, let’s connect.</i>
 </p>

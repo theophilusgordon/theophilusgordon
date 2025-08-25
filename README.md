@@ -26,12 +26,13 @@
 
 ## 🚀 About Me
 
->I'm a Software Engineer who loves building things that matter. Over the years, I’ve developed and scaled web applications serving millions of users across 80+ countries. I don’t just write code, I solve real-world problems with a mix of technical skill, leadership, and innovation.
+>Results-driven Full-Stack Software Engineer and AI Engineer with 4+ years of experience designing, developing, and deploying scalable, cloud-native web applications serving millions of users across 80+ countries.
 >
->I’ve mentored 50+ junior developers, led high-impact teams, and earned recognition as a LinkedIn Top Software Engineering Practices Voice. But what really drives me is Artificial Intelligence. I’m obsessed with finding smarter ways to work. Whether that's automating processes, exploring the latest AI research, or pushing the limits of what's possible.
+>I specialize in agentic AI systems, Retrieval-Augmented Generation (RAG) pipelines, multi-agent architectures, and Model Context Protocol (MCP), leveraging tools such as LlamaIndex, LangChain, and LangGraph to build intelligent, goal-oriented applications that enhance efficiency, adaptability, and business performance.
 >
->I’m a lifelong learner with a growing collection of certifications, always leveling up to stay ahead. My mission is simple: use cutting-edge technologies, like AI and cloud-native architecture, to make businesses faster, smarter, and more scalable.
-
+>Recognized as a LinkedIn Top Software Engineering Practices Voice, I have mentored 50+ junior developers and led high-performing engineering teams. I hold multiple certifications in AI, full-stack engineering, and cloud technologies, and I continuously invest in learning emerging technologies to deliver future-proof solutions.
+>
+> I’m passionate about AI automation, cloud-native architectures, and building scalable solutions that solve real-world problems. If you’re looking to develop next-generation applications, optimize engineering processes, or explore advanced AI capabilities, let’s connect.
 ---
 
 ## 🧰 Tech Stack
@@ -49,7 +50,6 @@
 
 ### 💻 Frontend
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react)
 
 ### 🧱 Architectures
 ![Microservices](https://img.shields.io/badge/-Microservices-informational?style=flat&logo=microgen)

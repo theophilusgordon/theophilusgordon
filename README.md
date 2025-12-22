@@ -26,19 +26,18 @@
 
 ## 🚀 About Me
 
->Results-driven Full-Stack Software Engineer and AI Engineer with 4+ years of experience designing, developing, and deploying scalable, cloud-native web applications serving millions of users across 80+ countries.
+>Senior Java Full-Stack Developer with 5+ years of professional experience building enterprise-grade, cloud-native applications using Java, Spring Boot, Angular, Docker, Kubernetes, Kafka, and AWS. Experienced in designing microservices architectures, REST and GraphQL APIs, and scalable backend systems used in multi-country production environments.
 >
->I specialize in agentic AI systems, Retrieval-Augmented Generation (RAG) pipelines, multi-agent architectures, and Model Context Protocol (MCP), leveraging tools such as LlamaIndex, LangChain, and LangGraph to build intelligent, goal-oriented applications that enhance efficiency, adaptability, and business performance.
+>Strong focus on clean architecture, system reliability, security best practices, and long-term maintainability, aligned with enterprise and regulated-industry standards common in the German market.
 >
->Recognized as a LinkedIn Top Software Engineering Practices Voice, I have mentored 50+ junior developers and led high-performing engineering teams. I hold multiple certifications in AI, full-stack engineering, and cloud technologies, and I continuously invest in learning emerging technologies to deliver future-proof solutions.
->
-> I’m passionate about AI automation, cloud-native architectures, and building scalable solutions that solve real-world problems. If you’re looking to develop next-generation applications, optimize engineering processes, or explore advanced AI capabilities, let’s connect.
+>I bring proven technical leadership, having mentored 50+ developers and led teams delivering production systems in complex, distributed environments. I also integrate AI-assisted capabilities where they provide measurable value, while keeping systems transparent, compliant, and easy to operate.
 ---
 
 ## 🧰 Tech Stack
 
 ### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript)
@@ -46,7 +45,6 @@
 ### 🛠 Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 
 ### 💻 Frontend
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)

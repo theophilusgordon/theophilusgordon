@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
->Senior Java Full-Stack Developer with 5+ years of professional experience building enterprise-grade, cloud-native applications using Java, Spring Boot, Angular, Docker, Kubernetes, Kafka, and AWS. Experienced in designing microservices architectures, REST and GraphQL APIs, and scalable backend systems used in multi-country production environments.
+>Java Full-Stack Developer with 5+ years of professional experience building enterprise-grade, cloud-native applications using Java, Spring Boot, Angular, Docker, Kubernetes, Kafka, and AWS. Experienced in designing microservices architectures, REST and GraphQL APIs, and scalable backend systems used in multi-country production environments.
 >
 >Strong focus on clean architecture, system reliability, security best practices, and long-term maintainability, aligned with enterprise and regulated-industry standards common in the German market.
 >

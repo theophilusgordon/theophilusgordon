@@ -6,8 +6,8 @@
 <h1 align="center">👋 Hi, I'm Theophilus Kofi Gordon</h1>
 
 <p align="center">
-  <b>Software Engineer (Full-Stack, AI & Cloud) </b><br>
-  Delivering Scalable and AI-Powered Software Solutions Across Europe and Global Markets
+  <b>Software Engineer | Java Full-Stack Developer </b><br>
+  Cloud-Native & Scalable Web Applications
 </p>
 
 <p align="center">

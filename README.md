@@ -91,14 +91,6 @@
 
 ---
 
-## 🙌 Values & Vision
-
-🎯 **Mission:** To build AI-driven, scalable, and real-world impactful solutions that empower people, solve unemployment, and automate the future.
-
-🌱 **Commitment:** Championing job creation and knowledge-sharing in underrepresented regions through open-source and mentorship.
-
----
-
 <p align="center">
   <i>If you’re looking to build something that makes an impact or just want to geek out about AI, let’s connect.</i>
 </p>

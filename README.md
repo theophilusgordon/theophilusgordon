@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>Senior Software Engineer | Agentic AI, RAG & LLM Integration</b><br>
-  Java (Spring Boot), Python (FastAPI), Angular
+  Java (Spring Boot), Python (FastAPI), Angular, React
 </p>
 
 <p align="center">

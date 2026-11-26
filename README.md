@@ -1,12 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/29ced657-6ab6-4652-932a-c2f5234df42d" alt="Theophilus Kofi Gordon Banner" style="width:100%;">
+  <img width="805" height="201" alt="Screenshot 2026-11-26 at 10 54 07" src="https://github.com/user-attachments/assets/2c3eea9e-1aff-479c-9e64-4180353754ed" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Theophilus Kofi Gordon</h1>
 
+
 <p align="center">
-  <b>  Senior Software Engineer | Agentic AI, RAG & LLM Integration </b><br>
+  <b>Senior Software Engineer | Agentic AI, RAG & LLM Integration</b><br>
   Java (Spring Boot), Python (FastAPI), Angular
 </p>
 
@@ -92,7 +93,7 @@
 ## 🌍 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/theophilusgordon/)
-- 📧 theophilusgordon1@gmail.com
+- 📧 theophilusgordon.dev@gmail.com
 - 📄 [Resume](https://docs.google.com/document/d/1Sc1zodMtNmwXErfzVxDqBqdMKUi0hl6uia1QWyiaxtI/edit?usp=sharing)
 
 ---

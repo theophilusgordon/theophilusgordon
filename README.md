@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="805" height="201" alt="Screenshot 2026-11-26 at 10 54 07" src="https://github.com/user-attachments/assets/2c3eea9e-1aff-479c-9e64-4180353754ed" />
+<img width="100%" height="100%" alt="Screenshot 2026-11-26 at 10 55 46" src="https://github.com/user-attachments/assets/8a93994d-1276-4b3d-888a-e3a7ff63228c" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Theophilus Kofi Gordon</h1>

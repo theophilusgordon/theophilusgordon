@@ -6,8 +6,8 @@
 <h1 align="center">👋 Hi, I'm Theophilus Kofi Gordon</h1>
 
 <p align="center">
-  <b>Software Engineer | Java Full-Stack Developer </b><br>
-  Cloud-Native & Scalable Web Applications
+  <b>  Senior Software Engineer | Agentic AI, RAG & LLM Integration </b><br>
+  Java (Spring Boot), Python (FastAPI), Angular
 </p>
 
 <p align="center">
@@ -26,11 +26,17 @@
 
 ## 🚀 About Me
 
->Java Full-Stack Developer with 5+ years of professional experience building enterprise-grade, cloud-native applications using Java, Spring Boot, Angular, Docker, Kubernetes, Kafka, and AWS. Experienced in designing microservices architectures, REST and GraphQL APIs, and scalable backend systems used in multi-country production environments.
+>A full-stack software engineer with 4+ years of experience building and scaling production systems, including a platform used in 80+ countries. Self-taught before formal training through AmaliTech's Graduate Programme, I built my technical foundation independently and have applied it in production environments ever since.
 >
->Strong focus on clean architecture, system reliability, security best practices, and long-term maintainability, aligned with enterprise and regulated-industry standards common in the German market.
+>Currently a Senior Associate at AmaliTech, I lead backend engineering and serve as AI facilitator for my chapter, working directly with international clients in Agile SCRUM teams. I don't wait to be assigned problems. I spot where the business can improve, propose the solution, and drive it through to delivery from within the team.
 >
->I bring proven technical leadership, having mentored 50+ developers and led teams delivering production systems in complex, distributed environments. I also integrate AI-assisted capabilities where they provide measurable value, while keeping systems transparent, compliant, and easy to operate.
+>My core focus is system architecture and AI integration. I design and build agentic AI and RAG systems, so LLMs work with real data, real APIs, and real constraints. That means clear service boundaries, retrieval that grounds every answer, agents with well-scoped tools, and guardrails, security, and observability around each step, built to the governance and compliance standards of regulated European sectors.
+>
+>My background spans Java, Spring Boot, Angular, and Python/FastAPI, with hands-on experience building LLM-powered workflows and MCP-based agentic tools.
+>
+>My approach combines deep technical ownership with clear communication and delivery discipline, the kind of engineering that clients and teams can rely on.
+>
+>Specialties: Java & Spring Boot · Python & FastAPI · Angular · React · System Architecture · AI-Integrated Systems · Cloud-Native Design (AWS, Docker, Kubernetes) · REST/GraphQL APIs · Event-Driven Systems (Kafka) · Client Engagement · Agile Delivery
 ---
 
 ## 🧰 Tech Stack
